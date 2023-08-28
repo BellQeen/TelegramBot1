@@ -1,2 +1,2 @@
 # telegram-bot-1
-Simple Telegram bot on Java
+Simple Telegram bot on Java (Spring)
